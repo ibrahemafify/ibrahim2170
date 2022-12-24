@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ibrahim2170
+- 👋 Hi, I’m @ibrahimafifi
 - 👀 I’m interested in AI and deep learning
 - 🌱 I’m currently learning CS50 and FWD
 - 💞️ I’m looking to collaborate on ...
